@@ -1,2 +1,2 @@
-# curso_iniciante_api_nodejs_aula01
-Curso Iniciante de API Nodejs + Express + Mongo - Aula 01
+# Nodejs API Básico - Aula 1 - Primeiros endpoints
+Criando o projeto, instanciando o express e criando os primeiros endpoints GET e POST.
